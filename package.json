@@ -1,0 +1,9 @@
+{
+  "name": "sicoob-local-copy",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "python3 server.py",
+    "dev": "python3 server.py"
+  }
+}
